@@ -41,8 +41,7 @@ pip install -r requirements.txt
 Customization
 
 Modify tax rates, currency symbols, and branding by editing the configuration file.
-Update the styles in the CSS folder or apply your own theme.
 
 
 
-License This project is licensed under the MIT License. For more information, read the LICENSE file.
+
